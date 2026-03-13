@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GofySMP.aternos.me:39702",
+    "ip": "GofySMP.aternos.me",
     "port": 62213,
     "version": "",
     "try-creative": false
